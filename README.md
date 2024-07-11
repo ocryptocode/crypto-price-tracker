@@ -37,6 +37,7 @@ COINMARKETCAP_API_KEY=your_api_key_here
 To run the application, use the following command:
 
 python app.py
+
 The application will start on http://localhost:5001/.
 
 ## API Endpoint
