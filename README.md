@@ -21,13 +21,14 @@ Before running the application, make sure you have:
 1. Clone the repository:
    
     git clone https://github.com/ocryptocode/crypto-price-tracker
+   
     cd <repository-directory>
 
-2. Install dependencies:
+3. Install dependencies:
 
     pip install -r requirements.txt
 
-3. Set up environment variables:
+4. Set up environment variables:
 
 Create a .env file in the root directory and add your CoinMarketCap API key:
 
