@@ -1,8 +1,8 @@
 # Crypto Price Tracker
 
-Welcome to the crypto price tracker.
 A platform that tracks all of crypto prices in real time.
-Overall , it's a simple Flask-based application to track cryptocurrency prices using the CoinMarketCap API.
+
+This is the next coinmarketcap.
 
 ## Features
 
